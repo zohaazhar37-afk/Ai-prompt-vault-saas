@@ -1,16 +1,39 @@
-# React + Vite
+# 🚀 Prompt Vault SaaS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Prompt Engineering SaaS library built with **React**, **Vite**, **Tailwind CSS**, and **Zustand**. 
 
-Currently, two official plugins are available:
+Features real-time prompt search, category filtering, dark mode toggle, interactive preview modal with terminal-style code generation, and smooth UI animations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🎨 Figma Design File
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Explore the interactive UI/UX wireframes and layout design:  
+👉 **[View Figma Design Project](https://www.figma.com/make/bCmx78HpEiI5E84iq2GUJ6/Prompt-Library-SaaS-Website?t=qzNeErO0hYNQX3x7-20&fullscreen=1)**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Key Features
+
+- 🔍 **Real-time Search & Filter:** Quickly find prompts by category or search terms.
+- 🎨 **Category Bar:** Filter prompts by tags like Coding, Writing, Marketing, Design, and AI.
+- 🌙 **Dark Mode Support:** Smooth light/dark theme toggle for optimal visual comfort.
+- 💻 **Interactive Code Preview:** View prompts alongside automatically formatted code output blocks.
+- 📋 **One-Click Copy:** Easily copy prompt instructions or full code snippets to your clipboard.
+- ⚡ **State Management:** Fast and scalable state handling powered by Zustand.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite, Tailwind CSS
+- **State Management:** Zustand
+- **Icons:** Lucide React
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/zohaazhar37-afk/Ai-prompt-vault-saas.git](https://github.com/zohaazhar37-afk/Ai-prompt-vault-saas.git)
